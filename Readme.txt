@@ -1,1 +1,0 @@
-This the Angular Part of the project
